@@ -1,0 +1,70 @@
+{
+  "checksum": "",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "children": [
+            {
+              "date_added": "13250000000000000",
+              "guid": "url-1",
+              "id": "1",
+              "name": "Example",
+              "type": "url",
+              "url": "https://example.com"
+            },
+            {
+              "date_added": "13250000000003000",
+              "guid": "url-4",
+              "id": "9",
+              "name": "DuckDuckGo",
+              "type": "url",
+              "url": "https://duckduckgo.com"
+            }
+          ],
+          "date_added": "13250000000000000",
+          "date_modified": "13250000000003000",
+          "guid": "folder-3",
+          "id": "10",
+          "name": "Bookmark Bar",
+          "type": "folder"
+        }
+      ],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000003000",
+      "guid": "root-1",
+      "id": "11",
+      "name": "Bookmark Bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [
+        {
+          "date_added": "13250000000004000",
+          "guid": "url-5",
+          "id": "12",
+          "name": "Stack Overflow",
+          "type": "url",
+          "url": "https://stackoverflow.com"
+        }
+      ],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000004000",
+      "guid": "root-2",
+      "id": "13",
+      "name": "Other Bookmarks",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000000000",
+      "guid": "root-3",
+      "id": "14",
+      "name": "Synced Bookmarks",
+      "type": "folder"
+    }
+  },
+  "sync_metadata": "",
+  "version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "checksum": "",
+  "roots": {
+    "bookmark_bar": {
+      "children": [
+        {
+          "date_added": "13250000000000000",
+          "guid": "url-1",
+          "id": "1",
+          "name": "Example",
+          "type": "url",
+          "url": "https://example.com"
+        },
+        {
+          "children": [
+            {
+              "date_added": "13250000000001000",
+              "guid": "url-2",
+              "id": "2",
+              "name": "Google",
+              "type": "url",
+              "url": "https://google.com"
+            }
+          ],
+          "date_added": "13250000000000000",
+          "date_modified": "13250000000001000",
+          "guid": "folder-2",
+          "id": "3",
+          "name": "Search Engines",
+          "type": "folder"
+        }
+      ],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000001000",
+      "guid": "root-1",
+      "id": "5",
+      "name": "Bookmark Bar",
+      "type": "folder"
+    },
+    "other": {
+      "children": [
+        {
+          "date_added": "13250000000002000",
+          "guid": "url-3",
+          "id": "6",
+          "name": "GitHub",
+          "type": "url",
+          "url": "https://github.com"
+        }
+      ],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000002000",
+      "guid": "root-2",
+      "id": "7",
+      "name": "Other Bookmarks",
+      "type": "folder"
+    },
+    "synced": {
+      "children": [],
+      "date_added": "13250000000000000",
+      "date_modified": "13250000000000000",
+      "guid": "root-3",
+      "id": "8",
+      "name": "Synced Bookmarks",
+      "type": "folder"
+    }
+  },
+  "sync_metadata": "",
+  "version": 1
+}

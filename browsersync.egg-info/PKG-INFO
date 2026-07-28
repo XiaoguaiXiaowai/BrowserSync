@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: browsersync
+Version: 0.1.0
+Summary: Cross-browser bookmark sync tool for macOS
+License: MIT
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: click>=8.0
+Requires-Dist: pyyaml>=6.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
